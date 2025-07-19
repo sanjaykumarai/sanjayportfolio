@@ -5,7 +5,7 @@ import { FaNode, FaReact } from "react-icons/fa";
 import { SiD3Dotjs, SiFirebase, SiGraphql, SiNextdotjs, SiTailwindcss, SiTypescript } from "react-icons/si";
 import Image from "next/image";
 import { ArrowUpRightIcon } from "@heroicons/react/16/solid";
-import { title } from "process";    
+ 
 
 
 
